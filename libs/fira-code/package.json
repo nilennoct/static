@@ -1,0 +1,22 @@
+{
+    "name": "FiraCode",
+    "filename": "FiraCode-Regular.eot",
+    "version": "1.204",
+    "description": "Monospaced font with programming ligatures",
+    "homepage": "https://github.com/tonsky/FiraCode",
+    "keywords": [
+       "fira", "font", "monospaced"
+   ],
+   "maintainers": [
+       {
+           "name": "tonsky",
+           "web": "http://tonsky.me/" 
+       }
+   ],
+   "repositories": [
+        {   
+            "type": "git",
+            "url": "https://github.com/tonsky/FiraCode"
+        }
+   ]
+}
